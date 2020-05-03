@@ -1,5 +1,5 @@
 [package]
-name = "memory-test"
+name = "dota-memory-test"
 version = "0.1.0"
 authors = ["Oleg Loutchansky <luchansodev@gmail.com>"]
 edition = "2018"
